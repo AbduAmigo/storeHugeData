@@ -20,6 +20,6 @@ To reduce memory time.
 Author: Hisham 
 Email: mailto:hishamabbasi124@gmail.com
 _______________________________________
-Author: Abdalla A
+Associate: Abdalla A
 TW: https://twitter.com/abdu_amigo
 ```
