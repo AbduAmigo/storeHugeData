@@ -7,7 +7,7 @@ records and insert them then next 100 till the end.
 
 Author: Hisham
 Email: mailto:hishamabbasi124@gmail.com
-Author: Abdalla A
+Associate: Abdalla A
 TW: https://twitter.com/abdu_amigo
 
 ## Objective
