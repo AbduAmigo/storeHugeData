@@ -1,16 +1,25 @@
-# storeHugeData
+# About
 
-// This function is in PHP to allow
-// to store huge records of data all
-// in the DB - will grap first 100
-// records and insert them then next
-// 100 till the end.
-// Objective: will reduce memory time
+This function is in PHP to allow
+to store huge records of data all
+in the DB - will grap first 100
+records and insert them then next 100 till the end.
 
+Author: Hisham
+Email: mailto:hishamabbasi124@gmail.com
+Author: Abdalla A
+TW: https://twitter.com/abdu_amigo
 
+## Objective
 
-// Author: Hisham
-// Email: mailto:hishamabbasi124@gmail.com
-// Author: Abdalla A
-// TW: https://twitter.com/abdu_amigo
+To reduce memory time.
 
+## Authors
+
+```python
+Author: Hisham 
+Email: mailto:hishamabbasi124@gmail.com
+_______________________________________
+Author: Abdalla A
+TW: https://twitter.com/abdu_amigo
+```
